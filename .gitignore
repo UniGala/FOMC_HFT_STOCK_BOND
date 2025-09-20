@@ -1,0 +1,8 @@
+# THE MUTE FILES
+data/
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
